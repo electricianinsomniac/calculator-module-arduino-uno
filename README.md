@@ -108,3 +108,7 @@ In the loop() function, the code calls the getButton() function to determine if 
 The getButton() function uses the ts.getPoint() function from the TouchScreen library to get the touch coordinates, and maps these coordinates to buttons based on their position on the screen. If no touch is detected, it returns the btnNONE constant.
 
 ### Note that this code is just a starting point and will likely need to be modified to fit your specific use case. Additionally, the touch screen calibration data and button mapping will likely need to be adjusted for your specific screen and project.
+
+### Support
+see the [Forum](https://forum.arduino.cc/c/software/arduino-ide-2-0/93) arduino for more issue 
+
