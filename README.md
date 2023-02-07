@@ -9,6 +9,8 @@ This project can be used as an educational tool to teach the basics of programmi
 # Introduction
 The use of touch screens in everyday electronics has become increasingly popular in recent years. These touch screens provide a user-friendly interface that makes it easy to interact with devices. In this project, we will be using an Arduino 3.2" TFT LCD Touch Screen to create a simple calculator. The touch screen will have buttons that perform basic arithmetic operations, allowing users to input numbers and perform calculations. This project is a great way to learn about programming and electronics and can be used as an educational tool or as a portable calculator. The provided code serves as a starting point and can be modified and expanded upon to fit the specific requirements of the project.
 
+![image](https://user-images.githubusercontent.com/110273737/217196256-8dd29935-ddd0-450b-89ee-f6eb98f2a3a4.png)
+
 ## Example Code
 
 Here is an example code for a calculator using an Arduino 3.2" TFT LCD Touch Screen on an Arduino Uno:
