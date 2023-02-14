@@ -115,5 +115,5 @@ The getButton() function uses the ts.getPoint() function from the TouchScreen li
 see the [Forum](https://forum.arduino.cc/c/software/arduino-ide-2-0/93) arduino for more issue 
 
 ### Another project 
-Lets see another project such as How to [Connecting ESP32CAM to Smartphone](https://github.com/electricianinsomniac/ESP32CAM-to-Smartphone) by using WIFI connection 
+Lets see another project such as How to [Use Arduino 3.2" TFT LCD Touch Screen](https://github.com/electricianinsomniac/Arduino-3.2-TFT-LCD-Touch-Screen-and-an-SD-card)
 
